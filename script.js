@@ -7,3 +7,12 @@ document.onkeydown= function(e){
             ch.classlist.remove('animatech')},700); 
         }
     }
+
+    setInterval(() => {
+        ch=document.querySelector('.ch');
+        gameover=document.querySelector('.gameover');
+        obstacle=document.querySelector('.obstacle');
+
+        dx=
+        
+    },100);
